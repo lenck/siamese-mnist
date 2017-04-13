@@ -18,8 +18,8 @@ The final embedding should look similar to this: ![Final embedding of the Siames
 
 ## Contents of the package
 * `cnn_mnist_siames.m` Network and training definition script.
-* `vl_create_siamese.m` Helper function to create a Siamese network.
-* `vl_nncontrloss.m` Implementation of the Contrastive loss.
+* `matlab/vl_create_siamese.m` Helper function to create a Siamese network.
+* `matlab/vl_nncontrloss.m` Implementation of the Contrastive loss.
 
 
 <a name="hadsell06"></a>
