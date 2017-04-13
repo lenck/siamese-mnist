@@ -12,9 +12,9 @@ vl_contrib setup siamese-mnist
 edit siamese_mnist_example
 ```
 ## Example Code
-An example tutorial on how to run the training and evaluate a [MNIST Siamese network](siamese_net.png) is in the MATLAB Live Script `example.mlx`. It shows how to train and cut the Siamese network to parts in order to obtain the final feature embedding.
+An example tutorial on how to run the training and evaluate a [MNIST Siamese network](images/siamese_net.png) is in the MATLAB Live Script `example.mlx`. It shows how to train and cut the Siamese network to parts in order to obtain the final feature embedding.
 
-The final embedding should look similar to this: ![Final embedding of the Siamese training](embedding.png)
+The final embedding should look similar to this: ![Final embedding of the Siamese training](images/embedding.png)
 
 ## Contents of the package
 * `cnn_mnist_siames.m` Network and training definition script.
